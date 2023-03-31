@@ -1,6 +1,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-This is a repository for the submitted paper "Evaluating the Robustness of Deep Reinforcement Learning for Autonomous and Adversarial Policies in a Multi-agent Urban Driving Environment"
+This is a repository for the paper "Evaluating the Robustness of Deep Reinforcement Learning for Autonomous Policies in a Multi-agent Urban Driving Environment"
 
 ### Installattion Setup
 
